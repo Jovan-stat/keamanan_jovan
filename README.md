@@ -1,4 +1,4 @@
-# Author : 72230608 - Jovan Marllen Yulianto - Sistem Informasi - Universitas Kristen Duta Wacana
+### Author : 72230608 - Jovan Marllen Yulianto - Sistem Informasi - Universitas Kristen Duta Wacana
 # 🔐 Sistem Authentication dengan menggunakan Laravel 6
 
 ## 📌 Deskripsi
